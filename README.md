@@ -10,3 +10,5 @@ Submission Belajar Dasar Pemrograman Web (Dicoding)
  4. Wajib menampilkan identitas diri (biodata diri) yang minimal harus berisi foto asli diri dan nama sesuai profil Dicoding. Identitas diri wajib ditampilkan dalam elemen <aside>
  5. Menyusun layout dengan menggunakan float atau flexbox
  6. Tema yang ditampilkan bebas, namun semakin detail dan lengkap website Anda maka nilai submission bisa lebih tinggi
+
+ ![alt text](https://raw.githubusercontent.com/yat98/Bantusiswa/master/ss1.png)
